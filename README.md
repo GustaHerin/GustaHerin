@@ -32,15 +32,6 @@ Gosto de construir software direto ao ponto, com código limpo, banco de dados b
   <img src="https://img.shields.io/badge/PostgreSQL-Database-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
-## Principais Projetos
-
-| Projeto | Stack | Descrição | Repositório |
-| --- | --- | --- | --- |
-| **TundraDrive** | C# / .NET 10, Avalonia UI, SQLite | Cliente open source de Google Drive para desktop com sincronização, backups e API local | [`TundraLab/TundraDrive`](https://github.com/TundraLab/TundraDrive) |
-| **Tundra Media Pill** | JavaScript (GJS), GTK4, Libadwaita | Extensão open source de mídia para a barra superior do GNOME com controles MPRIS2, letras e widget | [`TundraLab/Tundra-Media-Pill`](https://github.com/TundraLab/Tundra-Media-Pill) |
-| **TundraLab & Store** | Node.js, Express, EJS, Tailwind CSS | Site oficial e loja da TundraLab | [`tundralab.com.br`](https://tundralab.com.br) |
-| **Telefone Sem Fio da Bíblia** | HTML, CSS, JavaScript | Site publicado para o livro de pesquisa de mesmo nome | [`GustaHerin/TELEFONE-SEM-FIO-DA-BIBLIA`](https://github.com/GustaHerin/TELEFONE-SEM-FIO-DA-BIBLIA) |
-
 ## Contato
 
 - **GitHub:** [@GustaHerin](https://github.com/GustaHerin) | [@TundraLab](https://github.com/TundraLab)
