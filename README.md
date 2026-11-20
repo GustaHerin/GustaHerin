@@ -28,8 +28,12 @@ Gosto de construir software direto ao ponto, com código limpo, banco de dados b
 ## Tecnologias Principais
 
 <p>
-  <img src="https://img.shields.io/badge/C%23-.NET-512bd4?style=flat-square&logo=dotnet&logoColor=white" alt="C# / .NET" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512bd4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css&logoColor=white" alt="CSS3" />
 </p>
 
 ## Contato
