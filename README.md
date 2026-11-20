@@ -29,14 +29,8 @@ Gosto de construir software direto ao ponto, com interface bem cuidada e bom des
 
 <p>
   <img src="https://img.shields.io/badge/C%23-.NET%2010-512bd4?style=flat-square&logo=dotnet&logoColor=white" alt="C# / .NET 10" />
-  <img src="https://img.shields.io/badge/Avalonia%20UI-Desktop-8b44ac?style=flat-square" alt="Avalonia UI" />
-  <img src="https://img.shields.io/badge/JavaScript-ES2023-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-Backend-ed8b00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/GNOME%20Shell-GTK4%20%2F%20Libadwaita-4a86cf?style=flat-square&logo=gnome&logoColor=white" alt="GNOME / GTK4" />
   <img src="https://img.shields.io/badge/Linux-Fedora%20%2F%20Pop!__OS-51a2da?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/SQLite-Database-003b57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
 ## Principais Projetos
